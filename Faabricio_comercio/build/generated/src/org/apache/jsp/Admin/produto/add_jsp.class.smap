@@ -1,0 +1,29 @@
+SMAP
+add_jsp.java
+JSP
+*S JSP
+*F
++ 0 add.jsp
+Admin/produto/add.jsp
++ 1 cabecalho.jsp
+Admin/produto/../cabecalho.jsp
++ 2 rodape.jsp
+Admin/produto/../rodape.jsp
+*L
+1,9:58
+1#1,101:66
+9#0:166
+11,24:168
+34,27:192
+61,2:219,3
+63,21:225
+84:246,3
+85:249,6
+86:255,3
+87,5:258
+92:263,3
+93:266,6
+94:272,3
+95,27:275
+1#2,19:302
+*E
